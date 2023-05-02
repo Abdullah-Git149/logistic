@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "63721698018a62ec1e40aa43"
+  },
+  "name": "alaska",
+  "email": "alaska@getnada.com",
+  "password": "$2b$10$tg7z3hF8G.d6CvqeyOUgte871YtuGKgygAgCsYsFEI8Y5YASASXwK",
+  "user_image": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1622447470580"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1673423322043"
+    }
+  },
+  "is_blocked": "0",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZG1pbklkIjoiNjM3MjE2OTgwMThhNjJlYzFlNDBhYTQzIiwiaWF0IjoxNjczNDIzMzIyfQ.N2oPJCBU4fLZOtgZQhR3zY8DOWYfvKUeufRvEyVUQmI",
+  "isAdmin": true,
+  "user_device_token": null
+}]
